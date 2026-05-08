@@ -22,7 +22,7 @@ Resumen del Proyecto
 * **Naive Bayes** 
 
 ## Conclusiones
-* - El contenido de **alcohol** y los **sulfatos** demostraron ser las variables más significativas para la calidad.
+*  El contenido de **alcohol** y los **sulfatos** demostraron ser las variables más significativas para la calidad.
 * **Clasificación:** La Logística Binomial resultó ser el modelo más consistente (Precisión: 0.74 en entrenamiento, 0.72 en test).
 
 ## Lenguajes Utilizados
