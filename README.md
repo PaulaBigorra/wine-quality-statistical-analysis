@@ -32,4 +32,4 @@ Resumen del Proyecto
 
 ---
 *Este proyecto fue la primera entrega dentro de mi formación en Ciencia de Datos, enfocada en la validación estadística de modelos de aprendizaje automático.
-Informe completo detallado en el documento Pareja4.pdf*
+Informe completo detallado en el documento docs/wine_quality_report.pdf*
